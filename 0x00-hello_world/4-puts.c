@@ -1,11 +1,11 @@
-#!/bin/bash
-#include <stdio.h> 
+#include <stdio>
 /**
  * main - Entry
  * Return: Always 0
  */
 int main(void)
 {
-	puts("\"programming is like builing a multiple puzzle");
+	puts("\"programming is like building a multilingual puzzle");
 	return (0);
-{	
+}
+

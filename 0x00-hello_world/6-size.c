@@ -1,14 +1,6 @@
-
-<<<<<<< HEAD
-#include <stdio.>
-=======
 #include <stdio.h>
-
->>>>>>> aa5000db0b567cce210ef35b974c7fd730415fe0
 /**
  * main - Entry
- * Description: prints the size  of various types on the computer
- * and run on
  * Return: Always 0
  */
 int main(void)

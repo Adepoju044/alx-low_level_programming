@@ -18,11 +18,12 @@ int main(void)
 			if (!((ones == tens) || (tens > ones)))/*eliminates repitition*/
 			{
 				putchar(',');
-				putchar(',');
+				putchar(' ');
 			}
 		}
 	}
-}
+
 putchar('\n');
 
 return (0);
+}

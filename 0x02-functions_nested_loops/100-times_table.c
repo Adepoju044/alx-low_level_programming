@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print - function to print recursively using _putchar
  * @var: variable to be printed
@@ -8,7 +7,7 @@ void print(int var)
 {
 	if (var / 10)
 		print(var / 10);
-			_putchar ('0' + (var % 10));
+	_putchar ('0' + (var % 10));
 }
 /**
  * print_times_table - prints the n times table, starting with 0

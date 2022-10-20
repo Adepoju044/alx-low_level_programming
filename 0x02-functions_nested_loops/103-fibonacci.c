@@ -22,4 +22,4 @@ sum += fibonacci[i];
 
 	return (0);
 
-i}
+}
